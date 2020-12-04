@@ -14,5 +14,5 @@ Topics Covered in this repo:
 * Week 9: State Machines - Markov Decision Processes
 * Week 10: Reinforcement Learning
 * Week 11: Recurrent Neural Networks
-* Week 12: Recommender Systems
-* Week 13: Decision Trees and Nearest Neighbors
+* Week 12: Decision Trees and Nearest Neighbors
+* Week 13: Clustering
